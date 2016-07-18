@@ -1,0 +1,14 @@
+layout_spectrum: 0.7499207905493677
+typography_spectrum: 0.029123990098014474
+color:
+  brandStrength: 0.12759169610217214
+  lightness: 0.2526197722181678
+  saturation: 0.5799349260050803
+  rhythmicContrast: 0.12693495186977088
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: RDITest
