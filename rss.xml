@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RDITest]]></title>
+        <description><![CDATA[RDITest]]></description>
+        <link>https://thegrid.ai/rditest/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 09:24:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rditest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Valkyrie House Old-Fashioned Recipe]]></title>
+            <description><![CDATA[<article><h1>Valkyrie House Old-Fashioned Recipe</h1><p>This recipe is by Robert Simonson. Tell us what you think of it at The New York Times - Dining - Food.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4195654f327d207edb79fc38ad4ad8e4e86341e.jpg"></article>]]></description>
+            <link>http://cooking.nytimes.com/recipes/1017994-valkyrie-house-old-fashioned</link>
+            <guid isPermaLink="false">0d78915b-bd40-4462-a49c-9bcd1e74889a</guid>
+            <pubDate>Mon, 18 Jul 2016 09:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OneCook Personal Robotic Chef]]></title>
+            <description><![CDATA[<article><h1>OneCook Personal Robotic Chef</h1><p>Modern kitchen appliances can brew you the perfect espresso, bake a fluffy loaf of bread, mix a killer cocktail or even blend up a personalized smoothie-all with the press of a single button. So why not program them to cook a full meal? That's exactly what Boston-based company TNL Corp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adf61e992385ffbdfd2ff8df42f59c6a65ef9513.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/food-drink/one-cook-personal-robotic-chef</link>
+            <guid isPermaLink="false">03b8b220-091a-48eb-aa09-e9fe93048d37</guid>
+            <pubDate>Mon, 18 Jul 2016 09:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top Bartenders Name Their Favorite Drinking Cities]]></title>
+            <description><![CDATA[<article><h1>Top Bartenders Name Their Favorite Drinking Cities</h1><p>These are the best drinking cities, according to some of America's best bartenders, including New York, New Orleans, Portland,&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ee71e6476c85c57b74ac55e009be08dc7b85537.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/drink/nation/bartenders-best-drinking-cities/food-and-drink</link>
+            <guid isPermaLink="false">222914d1-a50f-48eb-be58-07bb9ae674df</guid>
+            <pubDate>Mon, 18 Jul 2016 09:24:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
